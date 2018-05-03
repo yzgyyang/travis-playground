@@ -1,0 +1,5 @@
+dist: trusty
+sudo: required
+before_install:
+  - sudo apt -qq update
+  - arch
